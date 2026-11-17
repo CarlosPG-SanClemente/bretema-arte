@@ -1,0 +1,2 @@
+# bretema-arte
+Repositorio de arte de Brétema, el juego que hace de hilo conductor del módulo Diseño gráfico 2D y 3D en el Curso de especialización en Desarrollo de videojuegos y realidad virtual del IES San Clemente.
